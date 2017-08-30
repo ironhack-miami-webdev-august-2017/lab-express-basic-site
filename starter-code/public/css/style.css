@@ -1,0 +1,33 @@
+body{
+  background-image: url("/images/fallinghearts.gif");
+}
+
+.head{
+  width: 100%;
+}
+
+a, h1, p{
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+
+li{
+  display: inline;
+  margin: 7px;
+}
+
+img{
+  width: 250px;
+  height: 250px;
+}
+
+div{
+  background-color: rgba(255, 255, 255, 0.5);
+  margin: 0 auto;
+  float: left;
+
+}
