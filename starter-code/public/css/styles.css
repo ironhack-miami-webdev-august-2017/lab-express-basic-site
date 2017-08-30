@@ -1,0 +1,42 @@
+.home,
+.about {
+  background: url("/images/asiya.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.gallery {
+  background: rgba(30,30,30,.8);
+}
+
+h1 {
+  color: rgba(255,255,255,.7);
+  font-size: 72px;
+  text-align: center;
+}
+
+h2 {
+  color: rgba(255,255,255,.7);
+}
+
+a {
+  color : rgba(255,255,255,.7);
+  display: block;
+}
+
+img {
+  margin-left: 100px;
+  width: 300px;
+}
+
+p {
+  color : rgba(255,255,255,.7);
+  font-size: 20px;
+}
+
+.aboutText {
+  margin-left: 50px;
+  margin-right: 50px;
+}
