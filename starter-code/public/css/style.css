@@ -1,0 +1,43 @@
+body {
+  font-family: "sans-serif, cursive";
+  background-color: grey;
+}
+
+h1{
+  font-size: 26px;
+  color: black;
+  text-align: center;
+}
+p{
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: inline;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 4px;
+}
+
+a{
+  color: white;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: overline;
+  color: black;
+}
+
+img {
+  align-content: center;
+  display: block;
+  transition: 2s;
+  transform: rotate(20deg);
+}
