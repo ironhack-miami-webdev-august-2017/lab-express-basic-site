@@ -1,0 +1,21 @@
+*{
+  text-align: center;
+}
+h1{
+  color: red;
+}
+
+img{
+  display: block;
+  transition: 1s;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+
+a{
+  text-decoration: none;
+  background-color: red;
+  border-radius: 3px;
+  padding: 5px 15px;
+  color: #fff;
+}
